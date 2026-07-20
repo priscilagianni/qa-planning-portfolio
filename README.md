@@ -165,7 +165,11 @@ Homologação
 
 ---
 
-## Exemplo de cenário Gherkin escrito por mim
+## Cenários Gherkin
+
+Durante minha atuação no QAPlanning foram elaborados cenários utilizando BDD/Gherkin para validar regras de negócio, funcionalidades da aplicação, segurança, privacidade e comportamentos relacionados à Inteligência Artificial.
+
+Exemplo de cenário desenvolvido:
 
 ```gherkin
 Funcionalidade: Validar provedores de IA por Feature Flag
@@ -185,7 +189,8 @@ Funcionalidade: Validar provedores de IA por Feature Flag
     Quando o usuário atualiza a página (F5)
     Então deve continuar sendo exibido apenas o provedor Gemini
 ```
-
+ Cenários Gherkin selecionados:
+[clicar aqui](./cenarios-gherkin/cenarios-qa-planning.md)
 ---
 
 ## Ferramentas utilizadas
