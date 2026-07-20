@@ -105,18 +105,28 @@ Durante a análise e execução dos testes, validei o comportamento da plataform
 
 ## Validação de aplicação baseada em Inteligência Artificial
 
-Durante os testes do QAPlanning, além da validação funcional tradicional, foram considerados aspectos específicos de aplicações que utilizam Inteligência Artificial Generativa.
+Durante os testes do QAPlanning, além das validações funcionais tradicionais, foram considerados desafios específicos de aplicações que utilizam Inteligência Artificial Generativa.
 
-Como os resultados gerados pela IA possuem comportamento probabilístico e não totalmente determinístico, a validação foi realizada considerando critérios de qualidade da resposta, regras de negócio e comportamento esperado da aplicação.
+Como os resultados gerados pela IA possuem comportamento probabilístico e não totalmente determinístico, a validação foi realizada considerando a qualidade das respostas, aderência às regras de negócio, formato esperado das saídas e comportamento da aplicação diante de diferentes entradas.
 
 Foram avaliados aspectos como:
 
 - Validação da estrutura e formato das respostas geradas
 - Cumprimento dos critérios definidos para geração de cenários Gherkin
-- Restrição de conteúdos inadequados ou entradas inválidas
 - Comportamento da aplicação diante de diferentes entradas
-- Tratamento de erros relacionados aos provedores de IA
-- Validação das regras de segurança e privacidade (BYOK)
+- Tratamento de falhas relacionadas aos provedores de IA
+- Validação de segurança e privacidade dos dados (modelo BYOK)
+
+### Uso de mocks para validação
+
+Durante a validação da plataforma, foram considerados cenários utilizando mocks para simular respostas dos provedores de IA, permitindo testar regras de negócio, tratamentos de erro e comportamento da aplicação de forma controlada.
+
+O uso de mocks possibilitou validar diferentes situações, como:
+
+- Respostas esperadas
+- Falhas de comunicação com provedores
+- Erros de autenticação
+- Comportamento da aplicação diante de respostas específicas
 
 ---
 
