@@ -103,6 +103,23 @@ Durante a análise e execução dos testes, validei o comportamento da plataform
 
 ---
 
+## Validação de aplicação baseada em Inteligência Artificial
+
+Durante os testes do QAPlanning, além da validação funcional tradicional, foram considerados aspectos específicos de aplicações que utilizam Inteligência Artificial Generativa.
+
+Como os resultados gerados pela IA possuem comportamento probabilístico e não totalmente determinístico, a validação foi realizada considerando critérios de qualidade da resposta, regras de negócio e comportamento esperado da aplicação.
+
+Foram avaliados aspectos como:
+
+- Validação da estrutura e formato das respostas geradas
+- Cumprimento dos critérios definidos para geração de cenários Gherkin
+- Restrição de conteúdos inadequados ou entradas inválidas
+- Comportamento da aplicação diante de diferentes entradas
+- Tratamento de erros relacionados aos provedores de IA
+- Validação das regras de segurança e privacidade (BYOK)
+
+---
+
 ## Fluxo de trabalho
 
 ```
