@@ -48,7 +48,7 @@ Durante minha participação foram realizadas atividades como:
 
 ---
 
-# 🧪 Atividades desenvolvidas
+# Atividades desenvolvidas
 
 Durante o projeto executei atividades relacionadas ao processo de Quality Assurance, incluindo:
 
