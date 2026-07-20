@@ -100,7 +100,7 @@ Durante o projeto executei atividades relacionadas ao processo de Quality Assura
 
 Neste repositório podem ser adicionadas evidências públicas da participação no projeto, como:
 
-- Capturas de tela da aplicação (quando permitido)
+- Capturas de tela da aplicação 
 - Fluxos testados
 - Métricas da execução
 - Cenários de teste elaborados
