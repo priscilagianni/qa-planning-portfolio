@@ -189,8 +189,6 @@ Funcionalidade: Validar provedores de IA por Feature Flag
 
 ## Evidências
 
-> Adicione aqui as capturas de tela dentro da pasta `/imagens`, referenciando cada uma como abaixo. Quanto mais completa essa seção, mais credibilidade o repositório passa.
-
 **Tela inicial da plataforma**
 
 <img width="1907" height="860" alt="Tela-Inicial" src="https://github.com/user-attachments/assets/c62ebd0d-d2cf-44ce-99ee-8542db84bb3e" />
