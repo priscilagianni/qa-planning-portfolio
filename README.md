@@ -193,18 +193,17 @@ Funcionalidade: Validar provedores de IA por Feature Flag
 
 **Tela inicial da plataforma**
 
-(./imagens/tela-inicial.png)<img width="1907" height="860" alt="Tela-Inicial" src="https://github.com/user-attachments/assets/c62ebd0d-d2cf-44ce-99ee-8542db84bb3e" />
+<img width="1907" height="860" alt="Tela-Inicial" src="https://github.com/user-attachments/assets/c62ebd0d-d2cf-44ce-99ee-8542db84bb3e" />
 
 
 **Painel de refinamento técnico e resultados**
 
-(./imagens/painel-analise.png)<img width="1897" height="861" alt="painel-analise" src="https://github.com/user-attachments/assets/b7e71da4-7c09-413f-8b18-92e5830b82aa" />
+<img width="1897" height="861" alt="painel-analise" src="https://github.com/user-attachments/assets/b7e71da4-7c09-413f-8b18-92e5830b82aa" />
 
 
 **Cenários Gherkin no editor**
 
-(./imagens/<img width="1577" height="977" alt="gherkin-exemplo" src="https://github.com/user-attachments/assets/ef34b0ff-9420-414d-a231-ac2a4c9f4198" />![Uploading painel-analise.png…]()
-)
+<img width="1577" height="977" alt="gherkin-exemplo" src="https://github.com/user-attachments/assets/ef34b0ff-9420-414d-a231-ac2a4c9f4198" />
 
 ---
 
